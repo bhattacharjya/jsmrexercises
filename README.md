@@ -1,3 +1,3 @@
 # jsmrexercises
 
-Sample MR doing sewcondary sort. 
+Sample MR doing secondary sort. 
